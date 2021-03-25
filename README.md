@@ -1,4 +1,4 @@
-# Supermarket
+# Продуктовый онлайн-магазин "ExpressFood"
 ## Наша команда
 - Бутенко Андрей (Project-manager, Back-end)
 - Крятов Алексей (Front-end, Редактор Документации)
