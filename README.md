@@ -12,3 +12,4 @@
 - [Курсовая](https://github.com/ButenkoAV/Supermarket/blob/main/Kursovaya.docx)
 - [Техническое задание](Tekhnicheskoe_zadanie_ExpressFood.docx)
 - [ExpressFood](http://irillk.pythonanywhere.com/)
+- [Метрики](https://metrika.yandex.ru/dashboard?id=86120925)
