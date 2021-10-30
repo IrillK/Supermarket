@@ -9,7 +9,7 @@
 ## Ссылки
 - [Miro](https://miro.com/app/board/o9J_lNnc278=/)
 - [Trello](https://trello.com/b/hU14p07s/expressfood)
-- [Курсовая](Kursovaya_expressfood.doc)
+- [Курсовая](Kursovaya_expressfood (3).doc)
 - [Техническое задание](Tekhnicheskoe_zadanie_ExpressFood.docx)
 - [ExpressFood](http://irillk.pythonanywhere.com/)
 - [Метрики](https://metrika.yandex.ru/dashboard?id=86120925)
