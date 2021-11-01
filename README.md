@@ -14,3 +14,4 @@
 - [ExpressFood](http://irillk.pythonanywhere.com/)
 - [Метрики](https://metrika.yandex.ru/dashboard?id=86120925)
 - [Демо-видео](https://youtu.be/y7nGGiT_Tjw)
+- [Презентация](https://github.com/ButenkoAV/Supermarket/blob/main/презентация.pdf)
