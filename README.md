@@ -18,7 +18,7 @@
 ## Ссылки
 - [Miro](https://miro.com/app/board/o9J_lNnc278=/)
 - [Trello](https://trello.com/b/hU14p07s/expressfood)
-- [Курсовая](https://github.com/ButenkoAV/Supermarket/blob/main/Kursovaya_expressfood.pdf)
+- [Курсовая](https://github.com/ButenkoAV/Supermarket/blob/main/Документы/Курсовая%20работа%20.pdf)
 - [Техническое задание](https://github.com/ButenkoAV/Supermarket/blob/main/Документы/Техническое%20задание.pdf)
 - [ExpressFood](http://irillk.pythonanywhere.com/)
 - [Метрики](https://metrika.yandex.ru/dashboard?id=86120925)
